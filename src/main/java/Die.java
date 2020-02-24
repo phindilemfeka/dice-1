@@ -39,9 +39,9 @@ public class Die {
         return sum;
     }
 
-    /*public void setProbabilities(int... probabilitiesArray){
+    public void setProbabilities(int... probabilitiesArray){
         this.probabilities = probabilitiesArray;
-    }*/
+    }
 }
 
 
